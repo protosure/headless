@@ -1,7 +1,7 @@
 const httpProxy = require('http-proxy');
 
-// let TARGET = 'https://api-develop.prtsr.io';
-let TARGET = 'http://api.local.prtsr.local';
+let TARGET = 'https://api-develop.prtsr.io';
+
 const proxy = httpProxy
   .createProxyServer({
     secure: false,
