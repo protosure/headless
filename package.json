@@ -23,7 +23,7 @@
     "object-path-immutable": "^4.1.1",
     "parcel": "^1.12.4",
     "parcel-plugin-bundle-visualiser": "^1.2.0",
-    "postcss": "^8.1.7",
+    "postcss": "^8.2.10",
     "postcss-import": "^13.0.0",
     "postcss-nested": "^5.0.1",
     "postcss-preset-env": "^6.7.0",
